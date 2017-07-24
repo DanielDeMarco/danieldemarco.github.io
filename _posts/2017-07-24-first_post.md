@@ -12,4 +12,4 @@ It should be pretty straigt forward.
 
 This should add an image!
 
-![Otis, Mass]({{ site.url }}/assets/OTIS.jpg}})
+![Otis, Mass]({{ site.url }}/assets/OTIS.jpg)
